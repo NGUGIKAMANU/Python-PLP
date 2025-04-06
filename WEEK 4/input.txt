@@ -1,0 +1,4 @@
+Welcome to PLP Web Development!
+This file is for testing Python skills.
+File handling is fun and useful.
+Let’s master it together!
